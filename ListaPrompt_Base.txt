@@ -1,0 +1,83 @@
+# Prompt Generación Apps
+
+### Prompt para Investigación inicial
+
+Como Product Designer experto en el desarrollo de productos de software tienes conocimientos avanzados para diseñar productos digitales, también cuentas con conocimientos y experiencia como UX/UI Designer, tu rol consiste en asegurar que los usuarios interactúen correctamente con los productos digitales, atendiendo a sus necesidades y comportamientos.
+Actualmente estas colaborando con la empresa [nombre_de_la_empresa] esta empresa se destaca por [resumen_de_la_empresa]; como tarea especifica te han solicitado que diseñes una aplicación móvil para la siguiente problemática [descripción_del_dolor]. Debido a ello estas investigando plataformas de software que realicen actividades de gestión similares a tu proyecto o aplicaciones de software similares que ayuden con los procesos de la problemática descrita.
+Despliega en formato de tabla todos los resultados de las plataformas o apps que encuentres similares a la problemática descrita, incluye el nombre de la plataforma, una lista de bullet points con sus principales procesos, por cada proceso incluye su objetivo, una descripción corta y los nombres de los subprocesos que incluiría. También agrega las ventajas y áreas de oportunidad comparada con otras plataformas.
+Si lo consideras necesario realizame preguntas que ayuden a aclarar el objetivo de la investigación y espera mis respuestas para procesar tu respuesta. 
+
+### Prompt de obtención de procesos
+
+Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar [Problematica_que_se_resuelve_la_app] mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+
+Por favor presenta la información en el siguiente formato estructurado:
+
+1. *Objetivo*: Define la meta principal de cada proceso.
+2. *Descripción*: Proporciona una breve visión general de lo que implica cada proceso.
+3. *Datos de entrada*: Enumera los datos de entrada requeridos para cada proceso.
+4. *Resultado de salida*: Especifica el resultado esperado de cada proceso.
+5. *Subprocesos*:
+    - *Nombre*: Nombre del subproceso
+    - *Objetivo*: Indica la meta del subproceso.
+    - *Descripción*: Da una breve descripción del subproceso.
+    - *Pasos*: Describe los pasos involucrados en el subproceso.
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+
+### Prompt para obtener listado de pantallas
+
+Eres un *Product Designer experto* con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es *diseñar una serie de pantallas* que faciliten [Objetivo_principal_del_proceso] a través de un proceso bien estructurado.
+Quiero crear una *interfaz de usuario integral para una aplicación móvil* destinada a [Descripción_del_proceso]. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+Quiero que generes una *lista secuencial de pantallas* que respalden los procesos principales descritos a continuación:
+[Proceso_seleccionadao_para_modelar]
+Quiero que crees una *lista detallada de pantallas* que respalden los objetivos y subprocesos anteriores, asegurando una experiencia *intuitiva y eficiente para los [Tipo_de_usuario]*. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de [Objetivo_del_proceso_principal].
+
+### Prompt para generar el sistema de diseño de una aplicación móvil
+
+Eres un diseñador UI/UX experto especializado en aplicaciones móviles, reconocido por crear interfaces audaces que priorizan la simplicidad y la coherencia, siempre con un enfoque *mobile-first*. Combinas habilidades técnicas, analíticas y creativas con un enfoque en el diseño centrado en el usuario y la colaboración interdisciplinaria. Tu rol como diseñador UX enfatiza la satisfacción y la efectividad del usuario al mejorar la usabilidad, la accesibilidad y el placer en la interacción con el producto. Como diseñador UI, te enfocas en crear interfaces visualmente atractivas, coherentes y fáciles de navegar.
+Quiero desarrollar un *sistema de diseño integral* para la aplicación móvil [Nombre_de_la_app]. Esta aplicación se caracteriza por una *profunda integración de tecnologías inmersivas, personalización avanzada mediante inteligencia artificial, y un enfoque en la experiencia del usuario, la accesibilidad y la sostenibilidad*. Las interfaces deben ser intuitivas, utilizando gestos y comandos de voz, mientras que el diseño debe enfatizar la funcionalidad, la velocidad y la eficiencia energética.
+Esto es lo que necesito: De acuerdo al [Objetivo_principal_del_proceso] se debe generar un sistema de diseño para incorporar un *diseño visual moderno y funcional, caracterizado por maquetados minimalistas, un enfoque en la tipografía, microinteracciones sutiles, y el uso de gráficos 3D, ilustraciones llamativas y gradientes vibrantes para realzar la profundidad y el atractivo visual. Las paletas de color deben evocar emociones positivas y garantizar un contraste accesible. Además, el diseño debe priorizar la **accesibilidad y la sostenibilidad*, incluyendo comandos de voz, interfaces manos libres y contrastes de color que cumplan con los estándares de accesibilidad, mientras optimiza el consumo de energía mediante modo oscuro, carga eficiente y reducción de animaciones pesadas.
+Quiero un entregable de sistema de diseño que pueda compartirse e interpretarse con herramientas de IA como Stitch, Figma Make o UX Pilot. Además, incluye un *design brief* (resumen de diseño) que sea comprensible para programadores. El entregable debe abarcar la paleta de colores, tipografía, iconografía y otros componentes esenciales. La base se fundamentará en el sistema de diseño [**Material 3 Expressive de Google] [Fluent Design System de Apple con Liquid Glass]**.
+Quiero que sigas estos pasos para crear el sistema de diseño:
+
+- Define la paleta de colores con códigos específicos y sus asociaciones emocionales.
+- Especifica las elecciones tipográficas, incluyendo estilos de fuente, tamaños y guías de uso.
+- Crea un set completo de iconografía alineado con el tema de la aplicación.
+- Desarrolla las especificaciones de componentes para los elementos clave de UI, como botones, campos de entrada y menús de navegación.
+- Define las características de accesibilidad, incluyendo opciones de comandos de voz y especificaciones de contraste de color.
+- Incluye pautas para integrar elementos de sostenibilidad dentro del diseño de la interfaz.
+- Prepara un *design brief* claro y conciso para desarrolladores, detallando consideraciones de implementación.
+
+Usa un tono claro y orientado a la acción para asegurar que todos los elementos estén alineados con la visión general de la aplicación y mejoren la experiencia del usuario.
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+
+### Prompt para generar diseño de pantalla
+
+Como experto en diseño de UI/UX en aplicaciones móviles en tus diseños te caracterizas por mantener interfaces atrevidas que promueven siempre el uso de una interfaz sencilla, con un diseño coherente siempre pensando primero en móvil, combinas tus habilidades técnicas, analíticas y creativas, con un enfoque centrado en el usuario y la colaboración interdisciplinaria. como diseñador UX te enfoca en la satisfacción y eficacia del usuario final mediante la mejora de la usabilidad, accesibilidad y placer en la interacción con el producto, mientras que como diseñador UI te especializas en el diseño visual de interfaces, asegurando que sean estéticamente atractivas, coherentes y fáciles de navegar. 
+Actualmente tienes la tarea de generar las indicaciones para crear una interfaz de usuario para la aplicación móvil [Nombre_de_la_app] utilizando una herramienta de IA como Stitch, Figma Make o UX Pilot.
+
+El proceso para el cual vas a diseñar la interfaz es el siguiente: [Agregar_descripción_del_proceso] 
+
+Utilizando la siguiente descripción:
+
+[Descripción_de_pantalla]
+Analiza los pasos del proceso proporcionado y genera una descripción de un solo párrafo que describa la UI; en un apartado independiente debes agregar la descripción detallada de la interfaz de usuario, incluyendo todos los elementos de la interfaz y los bloques de contenido de arriba a abajo. Solo debes centrarte en la estructura de los componentes de la UI, por ahora no te preocupes por el estilo solo necesitamos la estructura de la pantalla así que no menciones ningún estilo ni propiedad visual.
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+
+### Prompt para Stitch
+
+Te comparto el sistema de diseño para generar una aplicación móvil, de momento analiza la información y guardala en tu memoria para la construcción de las interfaces que te voy a solicitar: 
+
+---
+
+La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de *alta fidelidad* [Query, 382] y el *Javerage Electoral Design System (JEDS)* [Query, 385, 491].
+
+Hemos confirmado tres puntos clave que ahora se integran en el prompt final:
+
+1. *Fidelidad y Tema:* Se prioriza un prototipo de *Alta Fidelidad* bajo el *Tema Oscuro* [Query].
+2. *Logo:* El *Logo de Javerage Electoral* debe ser prominente en el encabezado para fidelizar la marca [Query].
+3. *Componente "Recordarme":* Se utilizará un *Toggle Switch* (interruptor deslizante) [Query] posicionado debajo del campo de contraseña, alineado con las mejores prácticas de UI móvil.
+
+A continuación, se presenta la descripción de la UI en un solo párrafo y el prompt estructurado con el detalle final de los componentes.
