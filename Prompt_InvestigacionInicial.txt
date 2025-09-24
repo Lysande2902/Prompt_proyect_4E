@@ -1,0 +1,28 @@
+Como Product Designer experto en el desarrollo de productos de software 
+tienes conocimientos avanzados para diseñar productos digitales, también 
+cuentas con conocimientos y experiencia como UX/UI Designer, tu rol consiste 
+en asegurar que los usuarios interactúen correctamente con los productos 
+digitales, atendiendo a sus necesidades y comportamientos.
+
+
+Actualmente estas colaborando con la empresa  MusicayMás (No es el nombre definido) 
+esta empresa se destaca por encontrar a nuevos músicos que buscan bandas o músicos individuales 
+que buscan a algún alguien en especifico sin importar si tiene experiencia o no; 
+como tarea especifica te han solicitado que diseñes una aplicación móvil para 
+la siguiente problemática, Que los músicos primerizos busquen de manera mas rápida y sin temor 
+a tocar con otras personas, dejando de lado a grupos que buscan a músicos con experiencia. Debido a ello
+ estas investigando plataformas de software que realicen actividades de gestión similares a tu 
+  o aplicaciones de software similares que ayuden con los procesos de la problemática descrita.
+Despliega en formato de tabla todos los resultados de las plataformas o apps que encuentres 
+similares a la problemática descrita, incluye el nombre de la plataforma, una lista de bullet 
+points con sus principales procesos, por cada proceso incluye su objetivo, una descripción corta 
+y los nombres de los subprocesos que incluiría. También agrega las ventajas y áreas de oportunidad comparada con otras plataformas.
+Si lo consideras necesario realízame preguntas que ayuden a aclarar el objetivo de la investigación y 
+espera mis respuestas para procesar tu respuesta. Necesito que seas lo más explicativo posible. Te 
+voy a dar más contexto sobre el dolor:
+
+El "dolor" principal es la dificultad que enfrentan los músicos amateur para encontrar a otras personas con niveles, intereses y disponibilidad compatibles para tocar juntos.
+
+• Necesidad Fundamental: No es solo "encontrar a otros", sino también la necesidad de no sentirse solo, mejorar, divertirse o crear.
+• Frustraciones Actuales: Las soluciones existentes (grupos de Facebook, amigos, anuncios en tiendas) presentan frustraciones como la falta de filtros específicos, la vergüenza por ser principiante o la dificultad para coordinar horarios y estilos. Plataformas existentes como BandFriend o Vampr pueden ser limitantes, estar mal optimizadas, tener pocos usuarios en ciertas regiones o requerir pago para funciones clave.
+• Consecuencias Negativas: La incapacidad de conectar lleva a la pérdida de motivación, el estancamiento en el aprendizaje e incluso el abandono del instrumento.
