@@ -1,0 +1,33 @@
+Te comparto el sistema de diseño para generar una aplicación móvil, de momento analiza la información y guardala en tu memoria para la construcción de las interfaces que te voy a solicitar: 
+
+---
+
+La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de **alta fidelidad** [Query, 382] y el **Javerage Electoral Design System (JEDS)** [Query, 385, 491].
+
+Hemos confirmado tres puntos clave que ahora se integran en el *prompt* final:
+
+1. **Fidelidad y Tema:** Se prioriza un prototipo de **Alta Fidelidad** bajo el **Tema Oscuro** [Query].
+2. **Logo:** El **Logo de Javerage Electoral** debe ser prominente en el encabezado para fidelizar la marca [Query].
+3. **Componente "Recordarme":** Se utilizará un **Toggle Switch** (interruptor deslizante) [Query] posicionado debajo del campo de contraseña, alineado con las mejores prácticas de UI móvil.
+
+A continuación, se presenta la descripción de la UI en un solo párrafo y el *prompt* estructurado con el detalle final de los componentes.
+
+***
+
+**Instrucciones para generación de interfaces de alta fidelidad en Stitch bajo Javerage Electoral Design System (JEDS):**
+
+- El prototipo debe ser de alta fidelidad, con tema oscuro predominante.
+- El logo de Javerage Electoral debe estar presente y destacado en el encabezado principal, ubicado en la parte superior de cada pantalla clave.
+- En la pantalla de acceso/login, incluir un toggle switch llamado “Recordarme” ubicado justo debajo del campo de contraseña.
+- Cada pantalla debe estructurarse en bloques ordenados de arriba hacia abajo: encabezado con logo, módulos informativos o instrucciones, campos de acción (formularios, filtros, botones), funcionalidades auxiliares como ayuda, links y FAQ, y barra de navegación persistente cuando corresponda.
+- La descripción debe enfocarse en la ubicación y orden jerárquico de los componentes sin mencionar estilos visuales ni propiedades estéticas.
+
+**Formato para entregables en Stitch:**
+
+1. Párrafo resumen del propósito y función de la pantalla dentro del sistema JEDS.
+2. Listado secuencial claro de todos los elementos o bloques de la UI en el orden en que aparecen verticalmente.
+3. Descripción precisa de la ubicación del logo y del toggle “Recordarme” según corresponda.
+
+***
+
+Esta estructura garantizará claridad y coherencia en la creación de pantallas con Stitch para la aplicación móvil bajo el sistema JEDS.
